@@ -14,21 +14,6 @@
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
 
-## Reports
-
-### [Interactive report on Novapro](https://www.novypro.com/project/pizza-sales-reports)
-
-### [Interactive report on Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/pizza-sales-analysis)
-
-### [SQL Queries Report](https://github.com/tushar2704/Pizza-Sales-Analysis/blob/main/reports/query_report.pdf)
-
-
-
-### Preview
-
-!\[pizza4](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/64e1be51-11d3-4579-b2ae-9f12d7624fa1)
-
-
 
 ## Project Structure
 
@@ -38,24 +23,6 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
     │   │
     │   └── pizza\_sales\_db.sql       <- DB creation.
     │   └── query.sql                <- Final queries.
-
-    ├── reports            <- Folder containing the final reports/results of this project.
-    │   │
-    │   └── Pizza\_Sales\_Report.pdf   <- Final analysis report in PDF.
-    │   └── query\_report.pdf         <- Final query report in PDF for verifying data.
-    │   
-    ├── src                <- Source for this project.
-        │
-        ├── data           <- Datasets used and collected for this project.
-        │   
-        ├── pizza\_sales\_images       <- Additional images for Dashboards.
-        │
-        ├── data\_dictionary.csv      <- Data Dictionary for the dataset.
-
-  
-
-
-
 \---
 
 
@@ -122,11 +89,11 @@ Dataset contains valuable information that could help us optimize our operations
 ## Author
 
 * <ins>**©2026 Dan Bahaudr Shahi. All rights reserved**</ins>
-* [**LinkedIn**](https://www.linkedin.com/in/tusharaggarwalinseec/)
+* [**LinkedIn**](https://www.linkedin.com/in/danshahi/)
 
 ## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Dan Bahadur Shahi](dbsthakuree123@gmail.com). We would love to hear from you!
 !\[1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
 !\[2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
 
