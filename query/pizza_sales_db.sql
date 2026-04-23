@@ -30,9 +30,6 @@ CREATE TABLE pizza_sales (
 	pizza_name VARCHAR(55)
 	);
 
-COPY pizza_sales 
-FROM 'D:\Pizza-Sales-Analysis\src\data\pizza_sales.csv'
-WITH (FORMAT CSV, HEADER);
 
 ------------------------------------------------------------------------------------------------------------
 /* https://github.com/dan-crud/
