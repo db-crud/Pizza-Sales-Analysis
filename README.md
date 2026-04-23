@@ -94,6 +94,5 @@ Dataset contains valuable information that could help us optimize our operations
 ## Contact me!
 
 If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Dan Bahadur Shahi](dbsthakuree123@gmail.com). We would love to hear from you!
-!\[1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
-!\[2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
+!\[1]git@github.com:db-crud/Pizza-Sales-Analysis.git
 
